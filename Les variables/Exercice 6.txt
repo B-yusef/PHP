@@ -1,0 +1,7 @@
+  
+<?php
+$nom = 'Boujemaa';
+$prenom = 'Youssef';
+$age = 26;
+echo "Bonjour" + $nom + ", comment vas tu ?".
+?>

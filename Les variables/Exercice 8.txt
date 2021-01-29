@@ -1,0 +1,9 @@
+<?php
+
+$somme=9+1;
+$multip=5*2;
+$div=50/5;
+
+echo $somme. "<br>" .$multip. "<br>" .$div. "<br>";
+
+?>

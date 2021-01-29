@@ -1,0 +1,13 @@
+<?php
+
+$nombre1=100;
+$nombre2=5;
+
+while ($nombre1 >= 10)
+{
+	$resulta = $nombre1 * $nombre2;
+	$nombre1--;
+
+    echo  $resulta. '<br />';
+}
+?>

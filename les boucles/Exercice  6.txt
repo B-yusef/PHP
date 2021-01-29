@@ -1,0 +1,13 @@
+<?php
+
+$nombre1=20;
+
+
+for($nombre1=20;$nombre1>=0;$nombre1--)
+{
+		
+	echo	"C'est presque bon...";
+
+    print $nombre1. '<br />';
+}
+?>

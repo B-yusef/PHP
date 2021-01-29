@@ -1,0 +1,7 @@
+<?php
+$nom = 'Youssef';
+$maried = false;
+$age = 26;
+$note =0.01;
+echo $nom.' ' .' '. $maried .' '.$age.' '. $note;
+?>

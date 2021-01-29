@@ -1,0 +1,9 @@
+<?php
+
+function char($name, $lname, $age){
+
+    echo "bonjour $name $lname, tu as $age ans" ;
+}
+string("Boujemaa", "Youssef", 26);
+
+?>

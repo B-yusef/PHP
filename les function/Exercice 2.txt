@@ -1,0 +1,7 @@
+<?php
+
+function para($youssef){
+	return $youssef;
+}
+echo para("hello");
+?>

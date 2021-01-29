@@ -1,0 +1,7 @@
+<?php
+
+function exercice5($num1,$chain){
+	return $num1.$chain ;
+	}
+echo exercice5(7," c est le numero de C.Ronaldo");
+?>

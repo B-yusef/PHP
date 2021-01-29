@@ -1,0 +1,13 @@
+<?php
+
+$nombre1=1;
+
+
+while ($nombre1 < 10)
+{
+	$resulta = $nombre1 / 2;
+	$nombre1++;
+
+    echo  $resulta. '<br />';
+}
+?>

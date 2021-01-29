@@ -1,0 +1,7 @@
+<?php
+
+function retur(){
+	return true;
+}
+echo retur();
+?>

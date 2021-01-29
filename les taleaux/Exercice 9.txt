@@ -1,0 +1,14 @@
+<?php
+$t_departements = array();
+
+$t_dep['02'] = 'Aisne';
+$t_dep['59'] = 'Nord';
+$t_dep['60'] = 'Oise';
+$t_dep['62'] = 'Pas-de-Calais';
+$t_dep['80'] = 'Somme';
+
+foreach($t_dep as $ville){
+echo $ville;
+echo "<br>";
+}
+?>

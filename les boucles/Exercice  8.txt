@@ -1,0 +1,13 @@
+<?php
+
+$nombre1=200;
+
+
+while ($nombre1 >=0)
+{
+	$nombre1-=12;	
+	
+
+  print $nombre1. '<br />';  
+}echo	"Enfin ! ! !";
+?>

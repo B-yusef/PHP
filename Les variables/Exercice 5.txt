@@ -1,0 +1,8 @@
+  
+<?php
+$number = NULL;
+echo $number;
+$number = 10;
+echo $number;
+
+?>

@@ -1,0 +1,14 @@
+<?php
+
+function exercice4($num1,$num2){
+	if ($num1>$num2) {
+		return $num1."  le premier nombre est plus grand que le deuxième";
+	}else if($num1<$num2){
+		return $num1."  le premier nombre est plus petit que le deuxième";
+		}else{
+			return $num1." les deux nombres sont egaux";
+		}
+	
+}
+echo exercice4(10,10);
+?>

@@ -1,0 +1,13 @@
+<?php
+
+$nombre1=0;
+$nombre2=6;
+
+while ($nombre1 <= 20)
+{
+	$resulta = $nombre1 * $nombre2;
+	$nombre1++;
+
+    echo  $resulta. '<br />';
+}
+?>

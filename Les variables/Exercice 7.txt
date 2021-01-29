@@ -1,0 +1,6 @@
+<?php
+$nom = 'Youssef';
+$prenom = 'Boujemaa';
+$age = 26;
+echo "bonjour".' '. $nom.' ' .$prenom.' '. "tu a".''. $age ;
+?>

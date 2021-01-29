@@ -1,0 +1,13 @@
+<?php
+
+$nombre1=1;
+
+
+while ($nombre1 <= 100)
+{
+	$nombre1+=15;	
+	echo	"On tient le bon bout...";
+
+  print $nombre1. '<br />';  
+}
+?> 

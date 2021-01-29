@@ -1,0 +1,8 @@
+<?php
+
+function para($youssef,$boujemaa){
+	return $youssef.$boujemaa;
+	
+}
+echo para("hello "," friend");
+?>
